@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Philipp  
 - 👀 I’m interested in business, blockchain, energy and AI
-- 🌱 I’m currently learning python, pandas, dataframes, git 
-- 💞️ I’m looking to collaborate on mining bitcoing with free energy and getting extra grid stabilization payment
+- 🌱 I’m currently learning Python/pyenv, Git, WSL, Poetry, DuckDB, Git Workflows   
+- 💞️ I'm seeking collaboration on a grid regulator technology that offloads excess energy—effectively creating a free energy source for Bitcoin mining..
 - 📫 How to reach me philipp@hyperion-grid.com
-- 😄 Pronouns: seriously?
-- ⚡ Fun fact: I'm not just a tech-savvy product owner; I've worked on futuristic projects like quantum encryption and smart soil technology. 
-
+- ⚡ Fun fact: I'm not just a tech-savvy product owner; I've worked on futuristic projects like quantum encryption and smart soil technology.
